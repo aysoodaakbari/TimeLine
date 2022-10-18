@@ -56,7 +56,7 @@ const TwoColumnList = () => {
         timeStyle={{
           textAlign: 'center',
           backgroundColor: '#fc6f03',
-          color: 'white',
+          color: '#fff',
           padding: 5,
           borderRadius: 13,
         }}

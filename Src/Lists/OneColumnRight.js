@@ -73,8 +73,6 @@ const OneColumnRight = () => {
           textAlign: 'center',
           backgroundColor: '#fc6f03',
           color: 'white',
-          padding: 5,
-          borderRadius: 13,
         }}
         descriptionStyle={{color: 'gray'}}
         options={{

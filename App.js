@@ -28,9 +28,9 @@ const App = () => {
  
   const tabName = [
     'One Column Left TimeLine',
-    'Refresh Load More TimeLine',
-    'Two Column TimeLine',
     'One Column Right TimeLine',
+    'Two Column TimeLine',
+    'Refresh Load More TimeLine',
 
   ];
  
